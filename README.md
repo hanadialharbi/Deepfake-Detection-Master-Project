@@ -30,7 +30,7 @@ The proposed framework combines a hybrid CNN–TCN model with federated learning
 ---
 
 ## 💻 Notebook
-- deepfake-cnn-tcn-final.ipynb
+- [Open Notebook](project_resources/Copy_of_deepfake_detection_final.ipynb)
 
 ---
 
