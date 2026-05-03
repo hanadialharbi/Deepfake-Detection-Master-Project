@@ -5,7 +5,7 @@ Federated deepfake detection using a hybrid CNN–TCN architecture for real-worl
 ---
 
 ## 🎬 Prototype Demo
-![Prototype Demo](UI.gif)
+![Prototype Demo](demo.gif)
 
 ---
 
