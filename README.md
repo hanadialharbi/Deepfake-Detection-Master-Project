@@ -1,13 +1,11 @@
+<p align="center">
+  <img src="assets/header.png" width="100%"/>
+</p>
+
+
 # Deepfake Detection Master Project
 
 Federated deepfake detection using a hybrid CNN–TCN architecture for real-world video analysis.
-
----
-
-## 🎬 Prototype Demo
-<p align="center">
-  <img src="demo.gif" width="300"/>
-</p>
 
 ---
 
