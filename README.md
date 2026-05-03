@@ -7,7 +7,7 @@
 
 Federated deepfake detection using a hybrid CNN–TCN architecture for real-world video analysis.
 
----
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #888, transparent);"/>
 
 ## 🔗 Prototype Design (Figma)
 [View Interactive Prototype](https://www.figma.com/design/PO0TIHbxUlFzxcmThm8cpr/DeepShield-AI?node-id=7020-3430&p=f&t=hEqyxsYKWwccdkj0-0)
@@ -29,7 +29,7 @@ The proposed framework combines a hybrid CNN–TCN model with federated learning
 
 ---
 
-## 💻 Notebook
+## 💻 Notebook (Google Colab)
 - [Open Notebook](project_resources/Copy_of_deepfake_detection_final.ipynb)
 
 ---
@@ -39,9 +39,20 @@ The system provides detection results indicating whether a video is real or fake
 
 ---
 
-## 🎥 Full Demo Video
-
----
-
 ## 📂 Dataset
 [Download URLS Dataset](https://www.kaggle.com/datasets/hanadi2030/dataset-deepfake)
+
+ ---
+
+## 🎥 Collected & Preprocessed Videos
+
+This resource includes the collected video samples after preprocessing and local feature extraction.
+
+Due to size limitations, the files are hosted externally:
+
+- 📥 [Access Files (OneDrive)](https://drive.google.com/drive/folders/1EwYBMrS5aLDmbWxQ4W9Pwk2WZzSW4dSb?usp=drive_link)
+
+Contents:
+- Collected videos (Real / Fake)
+- Preprocessed frames
+- Locally extracted features (CNN feature cache, optical flow, FFT, etc.)
