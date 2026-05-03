@@ -40,11 +40,6 @@ The proposed framework combines a hybrid CNN–TCN model with federated learning
 
 ---
 
-## 📊 Results
-The system provides detection results indicating whether a video is real or fake, along with a confidence score.
-
----
-
 ## 📂 Dataset
 [Download URLS Dataset](https://www.kaggle.com/datasets/hanadi2030/dataset-deepfake)
 
