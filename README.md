@@ -7,7 +7,13 @@
 
 Federated deepfake detection using a hybrid CNN–TCN architecture for real-world video analysis.
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #888, transparent);"/>
+## 🎬 Prototype Demo
+
+<p align="center">
+  <img src="demo.gif" width="320"/>
+</p>
+
+---
 
 ## 🔗 Prototype Design (Figma)
 [View Interactive Prototype](https://www.figma.com/design/PO0TIHbxUlFzxcmThm8cpr/DeepShield-AI?node-id=7020-3430&p=f&t=hEqyxsYKWwccdkj0-0)
